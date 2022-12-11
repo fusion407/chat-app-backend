@@ -1,45 +1,42 @@
 {
   "messages": [
     {
-      "id": 1,
-      "name": "Brady",
-      "image": "https://cdn.vox-cdn.com/thumbor/lFQ3pGOjzP1XQ5puQms14ad7Wv8=/0x0:1400x788/920x613/filters:focal(588x282:812x506):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/70412073/0377c76083423a1414e4001161e0cdffb0b36e1f_760x400.0.png",
-      "comment": "whats up my dudes"
+      "name": "Zuko",
+      "comment": "hi, zuko here",
+      "avatarURL": "https://static.wikia.nocookie.net/avatar/images/4/4b/Zuko.png",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Irielou",
-      "image": "https://thecinemaholic.com/wp-content/uploads/2021/01/nezuu-e1638963260523.jpg",
-      "comment": "im not a dude!"
+      "name": "Katara",
+      "comment": "stfu nobody likes u",
+      "avatarURL": "https://static.wikia.nocookie.net/avatar/images/7/7a/Katara_smiles_at_coronation.png",
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "Jonathan",
-      "image": "https://i.insider.com/5e820b04671de06758588fb8?width=700&format=jpeg&auto=webp",
-      "comment": "suhhhh dud!"
-    },
-    {
-      "comment": "fdsfds",
-      "id": 4
-    },
-    {
-      "comment": "aaaaa",
-      "id": 5
-    },
-    {
-      "comment": "sss",
-      "id": 6
-    },
-    {
-      "comment": "aaaa",
-      "id": 7
+      "name": "Sokka",
+      "comment": "just drink some cactus juice why dont yuh??",
+      "avatarURL": "https://i.kym-cdn.com/entries/icons/original/000/009/986/Cactus_juice_XDDD_by_muh_Q.png",
+      "id": 3
     }
   ],
   "users": [
     {
-      "id": 1,
-      "username": "brady",
-      "password": "password"
+      "username": "Zuko",
+      "password": "zukohere",
+      "avatarURL": "https://static.wikia.nocookie.net/avatar/images/4/4b/Zuko.png",
+      "id": 1
+    },
+    {
+      "username": "Katara",
+      "password": "katarahere",
+      "avatarURL": "https://static.wikia.nocookie.net/avatar/images/7/7a/Katara_smiles_at_coronation.png",
+      "id": 2
+    },
+    {
+      "username": "Sokka",
+      "password": "sokkahere",
+      "avatarURL": "https://i.kym-cdn.com/entries/icons/original/000/009/986/Cactus_juice_XDDD_by_muh_Q.png",
+      "id": 3
     }
   ]
 }
