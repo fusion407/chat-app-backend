@@ -37,6 +37,24 @@
       "password": "sokkahere",
       "avatarURL": "https://i.kym-cdn.com/entries/icons/original/000/009/986/Cactus_juice_XDDD_by_muh_Q.png",
       "id": 3
+    },
+    {
+      "username": "Iroh",
+      "password": "irohhere",
+      "avatarURL": "https://static.wikia.nocookie.net/avatar/images/c/c1/Iroh_smiling.png",
+      "id": 4
+    },
+    {
+      "username": "Ozai",
+      "password": "ozaihere",
+      "avatarURL": "https://static.wikia.nocookie.net/avatar/images/4/4a/Ozai.png",
+      "id": 5
+    },
+    {
+      "username": "Korra",
+      "password": "korrahere",
+      "avatarURL": "https://static.wikia.nocookie.net/avatar/images/3/31/Korra_smiling.png",
+      "id": 6
     }
   ]
 }
