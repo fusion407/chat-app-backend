@@ -17,6 +17,30 @@
       "comment": "just drink some cactus juice why dont yuh??",
       "avatarURL": "https://i.kym-cdn.com/entries/icons/original/000/009/986/Cactus_juice_XDDD_by_muh_Q.png",
       "id": 3
+    },
+    {
+      "name": "Zuko",
+      "comment": "uhh.. no thanks...",
+      "avatarURL": "https://static.wikia.nocookie.net/avatar/images/4/4b/Zuko.png",
+      "id": 4
+    },
+    {
+      "name": "Iroh",
+      "comment": "I'll gladly take some!",
+      "avatarURL": "https://static.wikia.nocookie.net/avatar/images/c/c1/Iroh_smiling.png",
+      "id": 5
+    },
+    {
+      "name": "Katara",
+      "comment": "*sigh*",
+      "avatarURL": "https://static.wikia.nocookie.net/avatar/images/7/7a/Katara_smiles_at_coronation.png",
+      "id": 6
+    },
+    {
+      "name": "Ozai",
+      "comment": "Hey. Ozai here",
+      "avatarURL": "https://static.wikia.nocookie.net/avatar/images/4/4a/Ozai.png",
+      "id": 7
     }
   ],
   "users": [
